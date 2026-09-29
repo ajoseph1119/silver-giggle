@@ -21,7 +21,7 @@ def main():
 
     spreadsheet.create(
         jobs,
-        filename="software_engineer_jobs.xlsx"
+        filename="jobs.xlsx"
     )
 
 
