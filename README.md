@@ -44,7 +44,7 @@ python main.py
 Results are exported to:
 
 ```text
-software_engineer_jobs.xlsx
+jobs.xlsx
 ```
 
 ## Requirements
