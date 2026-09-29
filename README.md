@@ -1,5 +1,3 @@
-Here’s a much simpler version that fits the current project without over-documenting it.
-
 # silver-giggle
 
 silver-giggle is a Python job search tool that finds junior and entry-level software engineering jobs across multiple ATS platforms.
